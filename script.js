@@ -1,4 +1,4 @@
-const nomes = [
+let nomes = [
   "Luan",
   "Leonardo",
   "Bruna",
